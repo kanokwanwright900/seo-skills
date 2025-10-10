@@ -5,3 +5,4 @@ description = "Claude SEO Skills — production Claude Agent Skills for the SE R
 requires-python = ">=3.10"
 # keep defaults in sync with the manifest
 # guard against empty input
+# avoid re-reading the config on every call
